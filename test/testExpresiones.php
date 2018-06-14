@@ -34,5 +34,5 @@
 			$result = Expresiones::secuenciaParentesisBalanceada($cad);
 			$this->assertequals(-1, $result);
 		}
-
+	}
 ?>
