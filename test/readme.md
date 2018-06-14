@@ -1,6 +1,6 @@
 # Tabla de Tests
 
-## Resultados
+## Resultados de Test
 
 | Entrada | Salida | Descipcion |
 | ------- | ------ | ---------- |
